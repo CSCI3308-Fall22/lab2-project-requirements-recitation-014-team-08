@@ -24,4 +24,14 @@ Steven Darbie StevenD6378
 Mark Tamale Markeefa
 Dan Medvedev DanielMed1620
 ```
+<<<<<<< HEAD
 new project line
+Steven
+<<<<<<< HEAD
+
+```
+"Project Team Members: "
+Matthew No
+```
+>>>>>>> main
+>>>>>>> main
