@@ -24,4 +24,4 @@ Mark Keefa Tamale Markeefa
 Dan Medvedev DanielMed1620
 ```
 Project Team Members:
-Mark Tamale
+Mark Keefa Tamale
