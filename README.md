@@ -23,5 +23,5 @@ Steven Darbie StevenD6378
 Mark Keefa Tamale Markeefa
 Dan Medvedev DanielMed1620
 ```
-Project Team Members:
-Mark Keefa Tamale
+Project Team Members: 
+MARK KEEFA TAMALE
