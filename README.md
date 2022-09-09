@@ -1,5 +1,3 @@
-# CSCI 3308 Lab 2: Team Formation
-
 |                                                Course Website                                                 |                                                   Canvas                                                    |                                              Piazza                                               |
 | :-----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
 | [![Course Website](https://img.shields.io/badge/Labs-Lab2-0A4D99)](https://cuboulder-csci3308.pages.dev/docs/labs/lab2/) | [![Canvas](https://img.shields.io/badge/Canvas-CSCI3308-CFB87C)](https://canvas.colorado.edu/courses/86400) | [![Piazza](https://img.shields.io/badge/-Piazza-3e7aab)](https://piazza.com/class/l6xrg9j9pa37pa) |
@@ -25,3 +23,5 @@ Steven Darbie StevenD6378
 Mark Tamale Markeefa
 Dan Medvedev DanielMed1620
 ```
+Project Team Members:
+Matthew No
