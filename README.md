@@ -23,10 +23,9 @@ Steven Darbie StevenD6378
 Mark Keefa Tamale Markeefa
 Dan Medvedev DanielMed1620
 
+```
 "Project Team Members: "
 Matthew No
 Mark Tamale
 Steven
 ```
->>>>>>> main
->>>>>>> main
