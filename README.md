@@ -20,13 +20,13 @@ git push
 ```Team 08
 Matthew No  CrownGuilty9
 Steven Darbie StevenD6378
-Mark Tamale Markeefa
+Mark Keefa Tamale Markeefa
 Dan Medvedev DanielMed1620
-```
-<<<<<<< HEAD
 
-```
 "Project Team Members: "
 Matthew No
+Mark Tamale
+Steven
 ```
+>>>>>>> main
 >>>>>>> main
